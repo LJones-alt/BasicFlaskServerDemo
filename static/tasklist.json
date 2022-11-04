@@ -1,0 +1,37 @@
+[
+{
+  "Company": "test",
+  "LPN (expected barcodes)": "AB1325004",
+  "Location number": "L101"
+},
+{
+  "Company": "test",
+  "LPN (expected barcodes)": "AB1325003",
+  "Location number": "L102"
+},
+{
+  "Company": "test",
+  "LPN (expected barcodes)": "AB1325016",
+  "Location number": "L102"
+},
+{
+  "Company": "test",
+  "LPN (expected barcodes)": "AB1355048",
+  "Location number": "L103"
+},
+{
+  "Company": "test",
+  "LPN (expected barcodes)": "AB1325005",
+  "Location number": "L103"
+},
+{
+  "Company": "test",
+  "LPN (expected barcodes)": "AB1325007",
+  "Location number": "L104"
+},
+{
+  "Company": "test",
+  "LPN (expected barcodes)": "AB1355049",
+  "Location number": "L105"
+}
+]
